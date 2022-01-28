@@ -1,0 +1,3 @@
+- name: First interaction
+  description: Testing action
+  uses: actions/first-interaction@v1.1.0
